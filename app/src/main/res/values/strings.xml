@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- app name -->
+    <string name="app_name">네트워크 정보</string>
+    <string name="app_eng_name">network info</string>
+
+    <!-- view -->
+    <string name="dashboard">대시보드</string>
+    <string name="menu">메뉴</string>
+
+</resources>
